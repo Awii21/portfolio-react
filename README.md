@@ -4,7 +4,7 @@
   <a href="https://portfolio-react-lime-psi.vercel.app/" target="_blank"></a>
 </h2>
 <div align="center">
-![alt text](/public/localhost_3001_home.png)</div>
+![alt text](home.png)
 </div>
 =======
 # portfolio-react
