@@ -1,10 +1,7 @@
-#markdown coming soon..!!!
-
-
-<!-- <<<<<<< HEAD
+ <<<<<<< HEAD
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
+  <!-- <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> -->
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
@@ -30,9 +27,9 @@ My React.js Portfolio based on @soumyajit4419 repository: https://github.com/sou
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    <!-- <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
+    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a> -->
 </h3>
 
 ## TL;DR
@@ -83,4 +80,4 @@ You will find all the components used and you can edit your information accordin
 
 Give a ⭐ if you like this website!
 
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a> -->
+<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a> 
