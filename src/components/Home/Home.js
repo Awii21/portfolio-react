@@ -4,6 +4,7 @@ import homeLogo from "../../Assets/home-main.svg";
 import Particle from "../Particle";
 import Home2 from "./Home2";
 import Type from "./Type";
+import TempType from "./temptype";
 
 function Home() {
   return (
@@ -12,6 +13,17 @@ function Home() {
         <Particle />
         <Container className="home-content">
           <Row>
+
+
+            {/* temporary development phase type */}
+
+
+            <div style={{ padding: 2, textAlign: "center" }}>
+
+              <TempType />
+
+            </div>
+            
             <Col md={7} className="home-header">
               <h1 style={{ paddingBottom: 15 }} className="heading">
                 Hi There!{" "}
