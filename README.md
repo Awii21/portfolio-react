@@ -3,7 +3,7 @@
   <a href="https://portfolio-react-lime-psi.vercel.app/" target="_blank"></a>
 </h2>
 
-![Image](home.png)
+![Image](/public/home.png)
 
 # portfolio-react
 My React.js Portfolio based on @soumyajit4419 repository: https://github.com/soumyajit4419/Portfolio
