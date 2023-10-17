@@ -14,15 +14,6 @@ function Home() {
         <Container className="home-content">
           <Row>
 
-
-            {/* temporary development phase type */}
-
-
-            <div style={{ padding: 5, textAlign: "left" }}>
-
-              <TempType />
-
-            </div>
             
             <Col md={7} className="home-header">
               <h1 style={{ paddingBottom: 15 }} className="heading">
