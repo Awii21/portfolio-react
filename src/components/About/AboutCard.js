@@ -30,7 +30,7 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "There's no ending point in learning!"{" "}
+            "Always desire to learn more!"{" "}
           </p>
           <footer className="blockquote-footer">Awais</footer>
         </blockquote>
