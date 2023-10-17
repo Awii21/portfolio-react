@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h2 align="center">
   Portfolio Website - v2.0<br/>
   <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
@@ -5,6 +6,12 @@
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
 </div>
+=======
+# portfolio-react
+My React.js Portfolio based on @soumyajit4419 repository: https://github.com/soumyajit4419/Portfolio
+
+
+>>>>>>> 9885103de4c56e1d94b66289ec0b18a0c5ce4700
 
 <br/>
 
