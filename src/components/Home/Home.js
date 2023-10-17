@@ -18,7 +18,7 @@ function Home() {
             {/* temporary development phase type */}
 
 
-            <div style={{ padding: 2, textAlign: "center" }}>
+            <div style={{ padding: 2, textAlign: "left" }}>
 
               <TempType />
 
