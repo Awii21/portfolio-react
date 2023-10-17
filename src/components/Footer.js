@@ -15,12 +15,15 @@ function Footer() {
   return (
     <Container fluid className="footer">
       <Row>
+
+        
+
         <Col md="4" className="footer-copywright">
           <h3>Made with <span role="img">❤️</span> by Awais</h3>
         </Col>
-        <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} awii@21</h3>
-        </Col>
+
+       
+
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
             <li className="social-icons">

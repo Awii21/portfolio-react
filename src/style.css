@@ -413,7 +413,7 @@ button:focus {
 
 .footer-body {
   z-index: 1;
-  text-align: center !important;
+  text-align: right !important;
 }
 
 @media (max-width: 767px) {
