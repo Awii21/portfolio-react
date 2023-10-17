@@ -41,7 +41,7 @@ function NavBar() {
           <img className="" alt="" />
         </Navbar.Brand> */}
         
-        <Navbar.Brand href="/" className="d-flex">LOGO Awaiting
+        <Navbar.Brand href="/" className="d-flex">LOGO
           <img src={logo} className="img-fluid logo" alt="brand" />
         </Navbar.Brand>
 
