@@ -1,6 +1,6 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
-import { ImPointRight } from "react-icons/im";
+import { VscDebugBreakpointFunction } from "react-icons/vsc";
 
 function AboutCard() {
   return (
@@ -10,22 +10,24 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Awais Soomro </span>
             from <span className="purple"> Hyderabad, Pakistan.</span>
-            <br /> I am a self-taught Web Developer, currently learning Machine Learning in Web using TensorFlow.js.
-            <br />
-            I have done 2 month paid internship in a Software Company as Front-End Web Developer and Marketer.
+            <br /> I am a self-taught Web Developer, I mostly do front-end stuff, but I'm currently experimenting Web Machine Learning using TensorFlow.js.
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+
+            I have done 2 month paid internship in a software company as Front-End Web Developer and Marketer.
+            <br />
+            <br />
+            I also have a life apart from coding!👽 
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Video Games
+              <VscDebugBreakpointFunction /> Playing Video Games
             </li>
             <li className="about-activity">
-              <ImPointRight /> Cricket
+              <VscDebugBreakpointFunction /> Cricket
             </li>
             <li className="about-activity">
-              <ImPointRight /> Snooker
+              <VscDebugBreakpointFunction /> Snooker
             </li>
           </ul>
 
