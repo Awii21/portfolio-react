@@ -91,7 +91,7 @@ function NavBar() {
                 to="/resume"
                 onClick={() => updateExpanded(false)}
               >
-                <RiFilePaper2Fill style={{ marginBottom: "2px" }} /> Resume
+                <RiFilePaper2Fill style={{ marginBottom: "2px" }} /> Résumé
               </Nav.Link>
             </Nav.Item>
 
