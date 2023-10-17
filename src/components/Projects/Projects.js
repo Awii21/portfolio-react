@@ -21,6 +21,9 @@ function Projects() {
         <p style={{ color: "white" }}>
          Some of the projects I've worked on recently.
         </p>
+        <p style={{ color: "white" }}>
+         More will be added soon.!!
+        </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
