@@ -9,12 +9,12 @@ import { CgGitFork } from "react-icons/cg";
 import { ImBlog } from "react-icons/im";
 import {
   AiFillStar,
-  AiOutlineHome,
-  AiOutlineFundProjectionScreen,
-  AiOutlineUser,
-} from "react-icons/ai";
+  } from "react-icons/ai";
 
+import { GoHomeFill, GoPersonFill } from "react-icons/go";
+import { MdOutlineScreenshotMonitor } from "react-icons/md";
 import { CgFileDocument } from "react-icons/cg";
+import { RiFilePaper2Fill } from "react-icons/ri";
 
 function NavBar() {
   const [expand, updateExpanded] = useState(false);
@@ -55,7 +55,7 @@ function NavBar() {
           <Nav className="ms-auto" defaultActiveKey="#home">
             <Nav.Item>
               <Nav.Link as={Link} to="/" onClick={() => updateExpanded(false)}>
-                <AiOutlineHome style={{ marginBottom: "2px" }} /> Home
+                <GoHomeFill style={{ marginBottom: "2px" }} /> Home
               </Nav.Link>
             </Nav.Item>
 
@@ -65,7 +65,7 @@ function NavBar() {
                 to="/about"
                 onClick={() => updateExpanded(false)}
               >
-                <AiOutlineUser style={{ marginBottom: "2px" }} /> About
+                <GoPersonFill style={{ marginBottom: "2px" }} /> About
               </Nav.Link>
             </Nav.Item>
 
@@ -75,7 +75,7 @@ function NavBar() {
                 to="/project"
                 onClick={() => updateExpanded(false)}
               >
-                <AiOutlineFundProjectionScreen
+                <MdOutlineScreenshotMonitor
                   style={{ marginBottom: "2px" }}
                 />{" "}
                 Projects
@@ -88,7 +88,7 @@ function NavBar() {
                 to="/resume"
                 onClick={() => updateExpanded(false)}
               >
-                <CgFileDocument style={{ marginBottom: "2px" }} /> Resume
+                <RiFilePaper2Fill style={{ marginBottom: "2px" }} /> Resume
               </Nav.Link>
             </Nav.Item>
 
