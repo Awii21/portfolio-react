@@ -18,7 +18,7 @@ function Footer() {
 
         
 
-        <Col md="4" className="footer-copywright">
+        <Col md="6" className="footer-copywright">
           <h3>Made with <span role="img">❤️</span> by Awais</h3>
         </Col>
 
