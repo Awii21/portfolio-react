@@ -16,9 +16,9 @@ function Projects() {
         <p style={{ color: "white" }}>
           Some of the projects I've worked on recently.
         </p>
-        <p style={{ color: "white" }}>
-          More will be added soon.!!
-        </p>
+        <p>More Projects will be added soon!</p>
+
+        
 
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
@@ -40,13 +40,16 @@ function Projects() {
               imgPath={tictactoe}
               isBlog={false}
               title="Tic Tac Toe React.js"
-              description="Tic-Tac-Toe game, a classic game for two players where each player takes turns marking a grid of 3x3 squares with their X or O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game. The game is implemented using React and CSS"
+              description="Tic-Tac-Toe game, a classic game for two players where each player takes turns marking a grid of 3x3 squares with their X or O."
               ghLink="https://github.com/Awii21/tic-tac-toe"
               demoLink="https://awais-tic-tac-toe.vercel.app/"
             />
           </Col>
 
+          
+
         </Row>
+        
 
       </Container>
     </Container>
