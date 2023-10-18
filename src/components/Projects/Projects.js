@@ -15,10 +15,7 @@ function Projects() {
         </h1>
         <p style={{ color: "white" }}>
           Some of the projects I've worked on recently.
-        </p>
-        <p>More Projects will be added soon!</p>
-
-        
+        </p>    
 
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
@@ -45,6 +42,9 @@ function Projects() {
               demoLink="https://awais-tic-tac-toe.vercel.app/"
             />
           </Col>
+
+          <p style={{ color: "white" }}>More projects will be added soon!</p>
+
 
           
 
