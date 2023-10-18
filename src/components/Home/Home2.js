@@ -25,7 +25,7 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> HTML, CSS, Vanila JavaScript and React.js </b>
+                <b className="purple"> HTML, CSS, JavaScript Vanila and React.js </b>
               </i>
               <br />
               <br />
