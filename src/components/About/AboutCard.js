@@ -14,7 +14,7 @@ function AboutCard() {
             <br />
             <br />
 
-            I have done 2 month paid internship in a software company as Front-End Web Developer and Marketer.
+            I have done 2 month paid internship at a software company as Front-End Web Developer and Marketer.
             <br />
             <br />
             I also have a life apart from coding!👽 
