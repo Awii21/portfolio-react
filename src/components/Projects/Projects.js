@@ -4,6 +4,7 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import smartcamera from "../../Assets/Projects/smartcamera.png";
 import tictactoe from "../../Assets/Projects/tictactoe.png";
+import Type_Project from "./TypeForProjects";
 
 function Projects() {
   return (
@@ -43,9 +44,9 @@ function Projects() {
             />
           </Col>
 
-          <p style={{ color: "white" }}>More projects will be added soon!</p>
-
-
+          <p style={{  textAlign: "left", fontSize: 15 }}>
+                <Type_Project />
+              </p>
           
 
         </Row>
