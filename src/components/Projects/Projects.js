@@ -23,7 +23,7 @@ function Projects() {
             <ProjectCard
               imgPath={smartcamera}
               isBlog={false}
-              title="Web Based Smart Camera TensorFlow.js"
+              title="Machine Learning Web Based Smart Camera"
               description="A web application that describes what's being displayed in an image using the TensorFlow JS library and Coco-SSD Model."
               ghLink="https://github.com/Awii21/tensorflowjs-web-based-smart-camera"
               demoLink="https://awais-smartweb.vercel.app/"
