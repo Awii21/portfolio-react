@@ -88,7 +88,7 @@ function NavBar() {
               </Nav.Link>
             </Nav.Item>
 
-            <Nav.Item>
+            {/* <Nav.Item>
               <Nav.Link
                 as={Link}
                 to="/resume"
@@ -96,7 +96,7 @@ function NavBar() {
               >
                 <RiFilePaper2Fill style={{ marginBottom: "2px" }} /> Résumé
               </Nav.Link>
-            </Nav.Item>
+            </Nav.Item> */}
 
            
 
